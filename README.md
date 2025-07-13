@@ -1,6 +1,7 @@
-Author:👤
-Ashish kumar <br>
-github : @ashishhacker21 
+## 👤 Author
+
+**Ashish Kumar**  
+GitHub: [@ashishhacker21](https://github.com/ashishhacker21)
 # Todo_app 
 This program is used to add your daily tasks, and it includes a save functionality in case you want to save them.
 # Functionality:
