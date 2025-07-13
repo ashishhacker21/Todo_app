@@ -1,4 +1,4 @@
-Author 👤
+Author:👤
 Ashish kumar <br>
 github : @ashishhacker21 
 # Todo_app 
