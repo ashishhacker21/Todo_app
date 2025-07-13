@@ -1,3 +1,6 @@
+#Author 👤
+Ashish kumar <br>
+github : @ashishhacker21 
 # Todo_app 
 This program is used to add your daily tasks, and it includes a save functionality in case you want to save them.
 # Functionality:
@@ -6,3 +9,10 @@ This program is used to add your daily tasks, and it includes a save functionali
 3 - Delete tasks<br>
 4 - View all task<br>
 5 - Saved your tasks in text file 
+# 📍Note:
+This project is a simple beginner-friendly terminal app.<br>
+A Flask-based version is coming soon! 🚧
+
+
+
+
